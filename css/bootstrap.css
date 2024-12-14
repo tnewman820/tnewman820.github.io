@@ -2084,6 +2084,11 @@ output {
   -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
   transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
 }
+
+p.form-check {
+	color:#555555
+}
+
 .form-control:focus {
   border-color: #66afe9;
   outline: 0;
