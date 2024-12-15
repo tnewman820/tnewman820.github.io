@@ -1840,5 +1840,22 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
+@media screen and (min-width: 768px) {
+  iframe{    
+    min-width:768px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+  iframe{ 
+    min-width:992px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+  iframe{    
+    min-width:1200px;
+    }
+}
 
 /*# sourceMappingURL=style.css.map */
