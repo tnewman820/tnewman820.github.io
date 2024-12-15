@@ -90,13 +90,13 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
   padding: 0;
   width: 100%;
-  padding: 40px 0;
+  padding: 10px 0;
   z-index: 1001;
   background-color: rgba(0,0,0,0.5);
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav {
-    padding: 20px 0;
+    padding: 8px 0;
   }
 }
 .fh5co-nav #fh5co-logo {
